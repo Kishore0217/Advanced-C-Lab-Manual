@@ -1,6 +1,6 @@
 
 ## NAME: KISHORE S
-## 2122242400831
+## 212224240078
 EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 Aim:
 To write a C program to display stack elements using linked list.
